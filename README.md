@@ -8,7 +8,7 @@ With 6 years of experience across customer experience, technical support, and di
 
 I'm particularly interested in SaaS companies where customer support, onboarding, and product quality work together.
 
-**[View my portfolio & interactive CV](https://trindadeproduction-maker.github.io/)** · **[Download my CV](https://trindadeproduction-maker.github.io/Hugo-Da-Silva-CV.pdf)** · **[LinkedIn](https://www.linkedin.com/in/hugo-d-56749b93/)** · **[Email](mailto:trindadeproduction@gmail.com)**
+**[View my portfolio & interactive CV](https://trindadeproduction-maker.github.io/trindadeproduction-maker/)** · **[Download my CV](https://trindadeproduction-maker.github.io/Hugo-Da-Silva-CV.pdf)** · **[LinkedIn](https://www.linkedin.com/in/hugo-d-56749b93/)** · **[Email](mailto:trindadeproduction@gmail.com)**
 
 
 ---
