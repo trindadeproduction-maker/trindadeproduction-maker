@@ -74,7 +74,7 @@ February 2018–October 2021
 
 - Programming with Object-Oriented Languages and Relational Databases — CIEF, 2026
 - Degree in Tourism; Technician in Tourism Businesses and Activities — UCA, 2009–2012
-- [Microsoft Certified: Azure AI Fundamentals ](https://www.credly.com/badges/e8e0aa43-fc36-42de-b67f-46fcfa2e41a3/linked_in_profile) July 13, 2026
+- [Microsoft Certified: Azure AI Fundamentals ](https://www.credly.com/badges/e8e0aa43-fc36-42de-b67f-46fcfa2e41a3/linked_in_profile)  —  July 13, 2026
 
 
 
@@ -89,4 +89,8 @@ Portuguese · Spanish · Catalan · English · French ·
 I'm interested in opportunities in SaaS Customer Support, Technical Support, Customer Onboarding, and Customer Experience Operations.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/hugo-d-56749b93/) · [Contact me by email](mailto:trindadeproduction@gmail.com)
+## Let's connect
 
+I'm interested in SaaS Customer Support, Technical Support, Customer Onboarding, and Customer Experience Operations.
+
+[LinkedIn](https://www.linkedin.com/in/hugo-d-56749b93/) · [Email](mailto:trindadeproduction@gmail.com)
