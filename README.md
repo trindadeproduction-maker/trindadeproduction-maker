@@ -1,6 +1,5 @@
 ![Hugo da Silva — Customer Experience and Technical Support](assets/banner.svg)
 
-# Hugo da Silva
 ### SaaS Customer Support | Technical Support | Customer Experience | Onboarding
 
 I help customers navigate digital products, resolve technical issues, and have better experiences with the services they use.
