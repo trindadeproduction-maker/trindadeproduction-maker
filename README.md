@@ -1,4 +1,4 @@
-![Professional banner](assets/profile-banner.png)
+![Hugo da Silva — Customer Experience and Technical Support](assets/banner.svg)
 
 # Hugo da Silva
 ### SaaS Customer Support | Technical Support | Customer Experience | Onboarding
@@ -9,7 +9,8 @@ With 6 years of experience across customer experience, technical support, and di
 
 I'm particularly interested in SaaS companies where customer support, onboarding, and product quality work together.
 
-[Interactive CV](https://YOUR-GITHUB-USERNAME.github.io/) · [LinkedIn](https://www.linkedin.com/in/hugo-d-56749b93/) · [Email](mailto:trindadeproduction@gmail.com)
+**[View my portfolio & interactive CV](https://trindadeproduction-maker.github.io/)** · **[Download my CV](https://trindadeproduction-maker.github.io/Hugo-Da-Silva-CV.pdf)** · **[LinkedIn](https://www.linkedin.com/in/hugo-d-56749b93/)** · **[Email](mailto:trindadeproduction@gmail.com)**
+
 
 ---
 
@@ -33,7 +34,7 @@ I'm particularly interested in SaaS companies where customer support, onboarding
 - Process optimization and documentation
 - Collaboration with ICT and product teams
 
-## Selected case studies
+## Portfolio Selected case studies
 
 
 - **Technical troubleshooting:** A structured approach to diagnosing a customer-facing digital service issue.
@@ -43,10 +44,13 @@ I'm particularly interested in SaaS companies where customer support, onboarding
 
 ## Tools & platforms
 
-**Customer Support:** Zendesk, Front, Aircall  
-**Collaboration & Productivity:** Slack, Asana, Notion, Google Workspace  
-**Analytics & Monitoring:** Grafana, Looker  
-**Digital Services & Hospitality:** Apaleo, Wifirst, Nevaya, HikCentral Client
+- Customer Support: Zendesk, Front, Aircall  
+
+- Collaboration & Productivity: Slack, Asana, Notion, Google Workspace  
+
+- Analytics & Monitoring:  Grafana, Looker  
+
+- Digital Services & Hospitality: Apaleo, Wifirst, Nevaya, HikCentral Client
 
 ## Professional experience
 
@@ -70,7 +74,9 @@ February 2018–October 2021
 
 - Programming with Object-Oriented Languages and Relational Databases — CIEF, 2026
 - Degree in Tourism; Technician in Tourism Businesses and Activities — UCA, 2009–2012
-- Additional training in generative AI, social projects, and communication
+- [Microsoft Certified: Azure AI Fundamentals ](https://www.credly.com/badges/e8e0aa43-fc36-42de-b67f-46fcfa2e41a3/linked_in_profile) July 13, 2026
+
+
 
 ## Languages
 
