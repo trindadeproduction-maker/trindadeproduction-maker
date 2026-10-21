@@ -68,14 +68,17 @@ November 2021 – November 2025
 
 **Decathlon España — Logistics Worker & Health and Safety Delegate**
 February 2018–October 2021
+
 - Contributed to workplace safety initiatives, training, and operational processes.
 
 **TheFork B2B & B2C Southern Market Specialist**
 December 2016 - March 2017
+
 - Educating restaurants on the use of TheFork Manager and providing excellent customer service to both restaurants and customers.
 
 **Suntransfers.com CRM B2B & B2C representative**
 April 2016 - November 2016
+
 - Providing 24/7 customer care assistance on private transportation and managing partner relationships to improve customer satisfaction.
 
 ## Education & continuous learning
