@@ -76,13 +76,13 @@ February 2018–October 2021
 - Degree in Tourism; Technician in Tourism Businesses and Activities — UCA, 2009–2012
 - [Microsoft Certified: Azure AI Fundamentals ](https://www.credly.com/badges/e8e0aa43-fc36-42de-b67f-46fcfa2e41a3/linked_in_profile)  —  July 13, 2026
 
-
-
 ## Languages
 
-Portuguese · Spanish · Catalan · English · French ·
-
-*Please refer to my CV for individual proficiency levels.*
+ - Portuguese Native
+ - Spanish bilingual
+ - English bilingual
+ - Catalan Professional working proficiency
+ - French Professional working proficiency 
 
 ## Let's connect
 
